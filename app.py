@@ -1,13 +1,16 @@
 import os
 import sys
+from flask import Flask, render_template
 
+app = Flask(__name__)
 
-sys.path.insert(0, os.path.dirname(__file__))
+@app.route('/')
+def index():
+    return render_template('index.html')
 
+@app.route('/default')
+def default():
+    return "Default gateway. No exit."
 
-def app(environ, start_response):
-    start_response('200 OK', [('Content-Type', 'text/plain')])
-    message = 'It works!\n'
-    version = 'Python v' + sys.version.split()[0] + '\n'
-    response = '\n'.join([message, version])
-    return [response.encode()]
+if __name__ == "__main__":
+    app.run()
