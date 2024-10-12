@@ -1,0 +1,269 @@
+,id,Nom
+0,Id,nom
+1,1080,Khadgar
+2,504,Bloodhoof
+3,1084,Dentarg
+4,1306,Tarren Mill
+5,1596,Karazhan
+6,507,Dragonblight
+7,627,The Maelstrom
+8,1588,Ghostlands
+9,637,Lightning's Blade
+10,527,Deathwing
+11,1597,Auchindoun
+12,529,Dunemaul
+13,628,Sylvanas
+14,1304,Jaedenar
+15,1598,Shattered Halls
+16,1083,Chromaggus
+17,511,Sunstrider
+18,607,Balnazzar
+19,1090,Talnivarr
+20,1093,Ahn'Qiraj
+21,526,Daggerspine
+22,621,Laughing Skull
+23,1088,Trollbane
+24,1299,Boulderfist
+25,1602,Gordunni
+26,1604,Soulflayer
+27,1605,Deathguard
+28,1614,Galakrond
+29,1609,Deepholm
+30,1616,Razuvious
+31,604,Thrall
+32,568,Kargath
+33,1330,Ambossar
+34,1091,Emeriss
+35,513,Twilight's Hammer
+36,522,Bloodscalp
+37,525,Crushridge
+38,518,Agamaggan
+39,646,Hakkar
+40,1092,Drak'thul
+41,523,Burning Blade
+42,1097,Ysera
+43,1324,Malorne
+44,1098,Malygos
+45,572,Malfurion
+46,1104,Anetheron
+47,589,Kil'jaeden
+48,1322,Rajaxx
+49,1611,Festung der Stürme
+50,587,Gul'dan
+51,594,Nathrezim
+52,1105,Nazjatar
+53,573,Zuluhed
+54,1321,Dalvengyr
+55,601,Aman'Thul
+56,584,Frostmourne
+57,608,Anub'arak
+58,1121,Die Arguswacht
+59,1118,Die ewige Wacht
+60,1119,Die Todeskrallen
+61,614,Das Syndikat
+62,1326,Der abyssische Rat
+63,613,Kult der Verdammten
+64,1619,Das Konsortium
+65,576,Die Silberne Hand
+66,1122,Uldaman
+67,641,Drek'Thar
+68,1332,Krasus
+69,1123,Eitrigg
+70,1127,Confrérie du Thorium
+71,1086,La Croisade écarlate
+72,1337,Culte de la Rive noire
+73,647,Les Sentinelles
+74,537,Kirin Tor
+75,1626,Les Clairvoyants
+76,644,Conseil des Ombres
+77,553,Turalyon
+78,505,Doomhammer
+79,1416,Blade's Edge
+80,1310,Eonar
+81,1298,Vek'nilash
+82,1312,Aerie Peak
+83,1081,Bronzebeard
+84,531,Dethecus
+85,605,Theradras
+86,610,Onyxia
+87,1319,Mug'thol
+88,615,Terrordar
+89,510,Vol'jin
+90,1620,Chants éternels
+91,512,Arak-arahm
+92,642,Rashgarroth
+93,543,Kael'thas
+94,643,Throk'Feroth
+95,612,Nefarian
+96,567,Gilneas
+97,582,Destromath
+98,1323,Ulduar
+99,591,Mannoroth
+100,586,Gorgonnash
+101,611,Nera'thor
+102,633,Kor'gall
+103,1087,Executus
+104,556,Shattered Hand
+105,630,Bloodfeather
+106,1415,Terokkar
+107,1314,Saurfang
+108,1389,Darkspear
+109,1392,Burning Steppes
+110,1331,Suramar
+111,517,Medivh
+112,1401,Garrosh
+113,1608,Shattrath
+114,574,Nozdormu
+115,575,Perenolde
+116,1407,Teldrassil
+117,506,Draenor
+118,1406,Arygos
+119,569,Khaz'goroth
+120,1621,Marécage de Zangar
+121,545,Cho'gall
+122,1336,Eldre'Thalas
+123,533,Sinstralis
+124,538,Dalaran
+125,1624,Naxxramas
+126,1334,Arathi
+127,541,Illidan
+128,1622,Temple noir
+129,578,Arthas
+130,1613,Blutkessel
+131,609,Wrathbringer
+132,535,Durotan
+133,588,Kel'Thuzad
+134,1318,Vek'lor
+135,1328,Tirion
+136,580,Blackmoore
+137,1106,Tichondrius
+138,1409,Lordaeron
+139,1615,Howling Fjord
+140,1307,Chamber of Aspects
+141,1309,Pozzo dell'Eternità
+142,581,Blackrock
+143,509,Garona
+144,546,Sargeras
+145,544,Ner'zhul
+146,500,Aggramar
+147,619,Hellscream
+148,554,Ravencrest
+149,1335,Ysondre
+150,1313,Wildhammer
+151,552,Thunderhorn
+152,1316,Nemesis
+153,1623,Fordragon
+154,570,Lothar
+155,565,Baelgun
+156,579,Azshara
+157,616,Krag'jin
+158,1096,Scarshield Legion
+159,1606,Sporeggar
+160,561,Earthen Ring
+161,635,Defias Brotherhood
+162,1308,Ravenholdt
+163,1317,Darkmoon Faire
+164,636,The Venture Co
+165,1082,Kul Tiras
+166,1391,Alonsus
+167,1394,Anachronos
+168,1378,Dun Modr
+169,1381,C'Thun
+170,1379,Zul'jin
+171,1380,Uldum
+172,1382,Sanguino
+173,1383,Shen'dralar
+174,1384,Tyrande
+175,1387,Los Errantes
+176,1395,Colinas Pardas
+177,1385,Exodar
+178,1386,Minahonda
+179,1388,Lightbringer
+180,1089,Mazrigos
+181,1393,Bronze Dragonflight
+182,618,Nordrassil
+183,623,Quel'Thalas
+184,503,Azjol-Nerub
+185,1400,Un'Goro
+186,602,Sen'jin
+187,1404,Area 52
+188,1099,Rexxar
+189,563,Alleria
+190,1618,Die Aldor
+191,542,Hyjal
+192,1925,Eversong
+193,1928,Goldrinn
+194,1603,Lich King
+195,1610,Greymane
+196,1929,Blackscar
+197,1617,Deathweaver
+198,1625,Borean Tundra
+199,1926,Thermaplugg
+200,1927,Grom
+201,1924,Booty Bay
+202,1405,Todeswache
+203,592,Zirkel des Cenarius
+204,1327,Der Mithrilorden
+205,516,Forscherliga
+206,617,Der Rat von Dalaran
+207,1333,Die Nachtwache
+208,1417,Azuremyst
+209,550,Stormrage
+210,560,Stormscale
+211,551,Terenas
+212,508,Emerald Dream
+213,539,Archimonde
+214,1303,Grim Batol
+215,1413,Aggra (Português)
+216,1300,Frostmane
+217,1305,Kazzak
+218,1085,Moonglade
+219,1117,Steamwheedle Cartel
+220,1595,The Sha'tar
+221,540,Elune
+222,645,Varimathras
+223,1587,Hellfire
+224,547,Runetotem
+225,501,Arathor
+226,1311,Kilrogg
+227,1589,Nagrand
+228,1301,Outland
+229,1922,Azuregos
+230,1923,Ashenvale
+231,1408,Norgannon
+232,600,Dun Morogh
+233,549,Silvermoon
+234,558,Spinebreaker
+235,528,Dragonmaw
+236,629,Vashj
+237,559,Stormreaver
+238,638,Haomarush
+239,606,Genjuros
+240,515,Zenedar
+241,521,Bladefist
+242,624,Neptulon
+243,632,Frostwhisper
+244,631,Darksorrow
+245,548,Shadowsong
+246,502,Aszune
+247,536,Argent Dawn
+248,585,Frostwolf
+249,519,Al'Akir
+250,557,Skullcrusher
+251,639,Xavius
+252,524,Burning Legion
+253,625,Twisting Nether
+254,577,Aegwynn
+255,622,Magtheridon
+256,626,Ragnaros
+257,564,Antonidas
+258,640,Khaz Modan
+259,1612,Echsenkessel
+260,566,Blackhand
+261,590,Mal'Ganis
+262,1320,Taerar
+263,583,Eredar
+264,1607,Nethersturm
+265,562,Alexstrasza
+266,571,Madmortem
+267,593,Proudmoore
